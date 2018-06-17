@@ -1,0 +1,81 @@
+body {
+width: 1000px;
+margin-left: auto;
+margin-right: auto;
+background-image: url(img/tło.jpg);
+background-repeat:round;
+background-attachment: fixed;
+font-family: 'Lato', sans-serif;
+}
+header {
+margin-top: 20px;
+margin-left: auto;
+margin-right: auto;
+font-size: 21px;
+font-family: 'Pacifico', cursive;
+}
+#zegar{
+ color: aliceblue;
+text-align: center;
+padding: 0px;
+float: right;
+font-family: 'Anton', sans-serif;
+font-size: 20px;
+}
+
+#menu{
+background-color: #751b1b;
+padding: 10px;
+}
+.option{
+    display: inline-block;
+    padding: 10px;
+    border-right:2px solid black;
+    min-width: 50px;
+    font-size: 19px;
+    height: 25px;
+}
+.option:hover {
+    background-color: #a02a2a;
+}
+p {
+margin-left: 300px;
+}
+img{
+float: left;
+
+}
+h2{
+    color: aliceblue;
+    margin-top: 40px;
+}
+li {
+    list-style-type: none;
+    color: aliceblue;
+    text-align: justify;
+  
+}
+nav a{
+text-decoration: none;
+color: black;
+}
+.ala{
+    text-decoration: none;
+    color: greenyellow;
+    margin-left: 15px;
+}
+.ala:hover{
+    color: cyan;
+}
+footer {
+margin-top: 30px;
+color: aliceblue;
+text-align: center;
+ }
+ 
+
+
+
+
+
+
